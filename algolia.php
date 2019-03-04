@@ -39,6 +39,10 @@ if ( ! defined( 'ALGOLIA_PATH' ) ) {
 	define( 'ALGOLIA_PATH', plugin_dir_path( __FILE__ ) );
 }
 
+if ( ! defined( 'ALGOLIA_LOAD_PRIORITY' ) ) {
+	define( 'ALGOLIA_LOAD_PRIORITY', 20 );
+}
+
 /**
  * I18n.
  */
