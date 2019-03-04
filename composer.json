@@ -1,7 +1,7 @@
 {
-  "name": "algolia/algoliasearch-wordpress",
+  "name": "helsingborg-stad/algoliasearch-wordpress",
   "homepage": "https://community.algolia.com/wordpress/",
-  "description": "Algolia Search plugin for Wordpress",
+  "description": "Forked version of algolia Search plugin for Wordpress. Fixes some issues, for more information see feature branches in git-repository.",
   "type": "wordpress-plugin",
   "license": "(MIT or GPL-2.0)",
   "require": {
